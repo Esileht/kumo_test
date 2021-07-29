@@ -18,4 +18,6 @@ label start:
 
     "test test test"
 
+    "asdfasdf"
+
     return
