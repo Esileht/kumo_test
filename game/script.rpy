@@ -16,4 +16,6 @@ label start:
 
     "test test"
 
+    "test test test"
+
     return
