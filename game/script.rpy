@@ -14,10 +14,6 @@ label start:
 
     e "이야기와 그림, 음악을 더하면 여러분의 게임을 세상에 배포할 수 있어요!"
 
-    "test test"
 
-    "test test test"
-
-    "asdfasdf"
 
     return
